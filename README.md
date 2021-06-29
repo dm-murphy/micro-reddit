@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Assignment from the Building with Active Record section of [The Odin Project.](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails) 
 
-Things you may want to cover:
+As an introduction to the basics of Rails' Active Record, this project instructs how to build a "micro" version of Reddit with just Users, Posts and Comments. This assignment teaches some of the basics of migration, validation and association. 
 
-* Ruby version
+* Ruby version 2.7.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version 6.1.3.2
